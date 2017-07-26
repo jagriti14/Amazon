@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample1</string>
+    <string name="connection_error">Connection error</string>
+    <string name="xml_error">XML error</string>
+</resources>
